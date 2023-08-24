@@ -1,0 +1,5 @@
+outs:
+- md5: c018823b2519808d10dda565f7e19b92
+  size: 501986
+  hash: md5
+  path: asin_mapping.joblib

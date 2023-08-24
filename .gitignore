@@ -69,3 +69,6 @@ docs/_build/
 target/
 maildir
 /datasets
+/asin_mapping.joblib
+/label_encoder.joblib
+/cosine_similarity_matrix.npy

@@ -1,0 +1,5 @@
+outs:
+- md5: 2e7bf79f10600831c90fe13192b0b921
+  size: 128
+  hash: md5
+  path: cosine_similarity_matrix.npy

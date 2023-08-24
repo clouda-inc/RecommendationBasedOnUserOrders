@@ -1,0 +1,5 @@
+outs:
+- md5: d83a86d9d17194317ea2f6d7fa415037
+  size: 313453
+  hash: md5
+  path: label_encoder.joblib
