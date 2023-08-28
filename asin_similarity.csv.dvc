@@ -1,0 +1,5 @@
+outs:
+- md5: 6799038bcf97ad851d8d5bcbbe772a0e
+  size: 988494489
+  hash: md5
+  path: asin_similarity.csv
