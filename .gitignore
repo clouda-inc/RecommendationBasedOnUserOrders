@@ -75,3 +75,5 @@ maildir
 /combined.csv
 /asin_similarity.csv
 /Modified_Orders_Data.csv
+/Modified_User_Orders.csv
+/productIDs.txt

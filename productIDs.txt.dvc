@@ -1,0 +1,5 @@
+outs:
+- md5: d503697357fc56069137937031002f43
+  size: 176274
+  hash: md5
+  path: productIDs.txt
