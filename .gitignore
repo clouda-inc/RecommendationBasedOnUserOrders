@@ -77,3 +77,5 @@ maildir
 /Modified_Orders_Data.csv
 /Modified_User_Orders.csv
 /productIDs.txt
+/asin_similarity_score.csv
+/Product_Recommendation.ipynb
